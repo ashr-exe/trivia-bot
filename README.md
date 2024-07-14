@@ -33,7 +33,7 @@ Welcome to the AI Trivia Bot project! This bot fetches the latest and most inter
    TWITTER_ACCESS_TOKEN=your_twitter_access_token
    TWITTER_ACCESS_TOKEN_SECRET=your_twitter_access_token_secret
 
-4. **Run the Bot::**
+4. **Run the Bot:**
    ```sh
    python main.py
 
