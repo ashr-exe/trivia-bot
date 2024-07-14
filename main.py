@@ -6,6 +6,8 @@ import time
 import logging
 import os
 from tweepy.errors import TweepyException
+from keep_alive import keep_alive
+
 
 # Set up logging
 logging.basicConfig(level=logging.INFO)
@@ -122,4 +124,5 @@ def main():
     print("Finished posting all trivia tweets.")
 
 if __name__ == "__main__":
+    keep_alive()
     main()

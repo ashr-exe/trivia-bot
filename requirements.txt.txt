@@ -1,0 +1,4 @@
+praw>=7.4.0
+tweepy>=4.4.0
+google-generativeai==1.0.0
+flask>=2.0.0
