@@ -124,5 +124,5 @@ def main():
     print("Finished posting all trivia tweets.")
 
 if __name__ == "__main__":
-    keep_alive()
+    #keep_alive()
     main()
