@@ -38,15 +38,6 @@ Welcome to the AI Trivia Bot project! This bot fetches the latest and most inter
    python main.py
 
 
-## 🌐 Deploy on Render
-
-You can easily deploy this bot on Render and let it run 24/7. Follow these steps:
-
-1. **Create a New Web Service** on Render.
-2. **Connect to Your GitHub Repository** and select this project.
-3. **Add Environment Variables** in the Render dashboard.
-4. **Deploy and Monitor** your bot as it entertains and educates the world!
-
 ## 🛠 Technologies Used
 
 - **Python**: The core language for this project.
