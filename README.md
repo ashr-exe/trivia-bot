@@ -2,6 +2,8 @@
 
 Welcome to the AI Trivia Bot project! This bot fetches the latest and most interesting facts from Reddit and turns them into engaging trivia tweets, sharing them with the world on Twitter. It's powered by the latest advancements in AI from Google's Gemini API and automated using the robust capabilities of PRAW (Python Reddit API Wrapper) and Tweepy.
 
+CHECK OUT @trippintrivia on Twitter [TrippinTrivia](https://x.com/TrippinTrivia)
+
 ## 🚀 Features
 
 - **Reddit Integration**: Fetches top daily top & relevant posts from reddit.
